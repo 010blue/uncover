@@ -12,7 +12,7 @@ func NewHTTPRequest(method, url string, body io.Reader) (*retryablehttp.Request,
 	if err != nil {
 		return nil, err
 	}
-	request.Header.Set("User-Agent", "Uncover - FOSS Project (github.com/projectdiscovery/uncover)")
+	request.Header.Set("User-Agent", "Uncover - FOSS Project (github.com/010blue/uncover)")
 	return request, nil
 }
 

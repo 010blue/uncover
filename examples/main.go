@@ -4,9 +4,9 @@ import (
 	"context"
 	"fmt"
 
+	"github.com/010blue/uncover"
+	"github.com/010blue/uncover/sources"
 	"github.com/projectdiscovery/gologger"
-	"github.com/projectdiscovery/uncover"
-	"github.com/projectdiscovery/uncover/sources"
 )
 
 func main() {

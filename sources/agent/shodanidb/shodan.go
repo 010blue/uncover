@@ -8,8 +8,8 @@ import (
 
 	"errors"
 
+	"github.com/010blue/uncover/sources"
 	"github.com/projectdiscovery/mapcidr"
-	"github.com/projectdiscovery/uncover/sources"
 	iputil "github.com/projectdiscovery/utils/ip"
 )
 

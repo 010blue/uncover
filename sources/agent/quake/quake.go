@@ -8,7 +8,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/projectdiscovery/uncover/sources"
+	"github.com/010blue/uncover/sources"
 	errorutil "github.com/projectdiscovery/utils/errors"
 )
 

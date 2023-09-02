@@ -7,8 +7,8 @@ import (
 	"os"
 	"sync"
 
+	"github.com/010blue/uncover/sources"
 	lru "github.com/hashicorp/golang-lru"
-	"github.com/projectdiscovery/uncover/sources"
 )
 
 type OutputWriter struct {

@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/projectdiscovery/uncover/testutils"
+	"github.com/010blue/uncover/testutils"
 	folderutil "github.com/projectdiscovery/utils/folder"
 )
 

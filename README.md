@@ -8,8 +8,8 @@
 
 <p align="center">
 <img src="https://img.shields.io/github/go-mod/go-version/projectdiscovery/uncover">
-<a href="https://github.com/projectdiscovery/uncover/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
-<a href="https://github.com/projectdiscovery/uncover/releases"><img src="https://img.shields.io/github/release/projectdiscovery/uncover"></a>
+<a href="https://github.com/010blue/uncover/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
+<a href="https://github.com/010blue/uncover/releases"><img src="https://img.shields.io/github/release/projectdiscovery/uncover"></a>
 <a href="https://twitter.com/pdiscoveryio"><img src="https://img.shields.io/twitter/follow/pdiscoveryio.svg?logo=twitter"></a>
 <a href="https://discord.gg/projectdiscovery"><img src="https://img.shields.io/discord/695645237418131507.svg?logo=discord"></a>
 </p>
@@ -56,7 +56,7 @@
 uncover requires **go1.19** to install successfully. Run the following command to get the repo -
 
 ```sh
-go install -v github.com/projectdiscovery/uncover/cmd/uncover@latest
+go install -v github.com/010blue/uncover/cmd/uncover@latest
 ```
 
 ## Usage

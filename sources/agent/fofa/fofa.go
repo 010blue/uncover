@@ -9,7 +9,7 @@ import (
 
 	"errors"
 
-	"github.com/projectdiscovery/uncover/sources"
+	"github.com/010blue/uncover/sources"
 )
 
 const (

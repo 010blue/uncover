@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
+	"github.com/010blue/uncover"
+	"github.com/010blue/uncover/sources"
 	"github.com/projectdiscovery/gologger"
-	"github.com/projectdiscovery/uncover"
-	"github.com/projectdiscovery/uncover/sources"
 	errorutil "github.com/projectdiscovery/utils/errors"
 	stringsutil "github.com/projectdiscovery/utils/strings"
 )
