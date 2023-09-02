@@ -4,9 +4,9 @@ import (
 	"context"
 
 	// Attempts to increase the OS file descriptors - Fail silently
+	"github.com/010blue/uncover/runner"
 	_ "github.com/projectdiscovery/fdmax/autofdmax"
 	"github.com/projectdiscovery/gologger"
-	"github.com/projectdiscovery/uncover/runner"
 )
 
 func main() {
